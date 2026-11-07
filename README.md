@@ -8,6 +8,10 @@ Expérimentation d’un assistant connecté à une base de connaissances avec Ne
 
 Consulter `.env.example` pour les variables attendues et la documentation d’origine ci-dessous pour l’installation.
 
+La connexion PostgreSQL utilise `DATABASE_URL`, ou `POSTGRES_URL` lorsque cette
+variable est fournie par l’intégration Vercel Postgres. Les identifiants restent
+dans les variables d’environnement du serveur.
+
 ---
 
 # Vercel AI SDK RAG Guide Starter Project
