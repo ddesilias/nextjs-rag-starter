@@ -1,3 +1,15 @@
+# RAG Starter
+
+Expérimentation d’un assistant connecté à une base de connaissances avec Next.js, TypeScript et le Vercel AI SDK.
+
+- Ressources et embeddings stockés dans PostgreSQL.
+- Schéma et migrations avec Drizzle.
+- API de chat avec recherche de contexte.
+
+Consulter `.env.example` pour les variables attendues et la documentation d’origine ci-dessous pour l’installation.
+
+---
+
 # Vercel AI SDK RAG Guide Starter Project
 
 This is the starter project for the Vercel AI SDK [Retrieval-Augmented Generation (RAG) guide](https://sdk.vercel.ai/docs/guides/rag-chatbot).
